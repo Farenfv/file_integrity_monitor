@@ -29,8 +29,3 @@ This PowerShell script monitors a specified directory for file changes, includin
     ```
 4. Enter the directory you want to monitor when prompted.
 
-### Example
-
-```powershell
-PS C:\Users\YourUsername\Documents> .\file_integrity_monitor.ps1
-Enter the directory to monitor: C:\ImportantFolder
